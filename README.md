@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,flask,java,spring,react,express,nodejs,mysql,mongodb,vscode,eclipse,postman,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,flask,java,spring,react,express,nodejs,mysql,mongodb,vscode,eclipse,postman,ps,ai)]()
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markubiadas&show_icons=true&locale=en&layout=compact" alt="markubiadas" /></p> -->
 
