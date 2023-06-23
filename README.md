@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/y05Vg8t/github-banner.jpg" alt="github profile banner">
+<img src="https://i.ibb.co/85BZnmZ/github-banner.jpg" alt="github profile banner">
 <h1 align="center">Hi 👋, I'm Mark Ubiadas</h1>
 <h3 align="center">I am a full-stack developer from Los Angeles</h3>
 <p align="center">I am a passionate designer with a diverse skill set in programming languages such as Python, Java, and JavaScript | frameworks such as Flask and Spring | and libraries such as React. My background as a photographer has honed my attention to detail and my love for technology since childhood has driven me to pursue a career in web and software design. My goal is to bring my creativity and technical skills to the table, delivering high-quality and visually appealing solutions.</p>
