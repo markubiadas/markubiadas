@@ -13,9 +13,9 @@
 
 - ⚡ Fun fact: **My hobbies are playing video games, watching anime, photography, and coding**
 
-- Currently Working On: ** More Email Templates **
+- Currently Working On: More Email Templates (Promotional and Transactional)
 
-- Currently Learning: ** Hubspot **
+- Currently Learning: Hubspot
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
