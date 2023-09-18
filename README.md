@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **My hobbies are playing video games, watching anime, photography, and coding**
 
-- Currently Working On: More Email Templates (Promotional and Transactional)
+- Currently Working On: More and more customized email templates and learning new stuffs
 
 - Currently Learning: Salesforce Marketing Cloud
 
