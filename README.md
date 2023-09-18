@@ -15,7 +15,7 @@
 
 - Currently Working On: More Email Templates (Promotional and Transactional)
 
-- Currently Learning: Hubspot
+- Currently Learning: Salesforce Marketing Cloud
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
